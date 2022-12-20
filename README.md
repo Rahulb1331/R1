@@ -1,2 +1,2 @@
-#iNeuron assignments
+#Assignments
 
